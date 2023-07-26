@@ -1,0 +1,10 @@
+{
+    "purchaser_private_key": "YOUR_PRIVATE_KEY",
+    "eth_rpc_url": "ETH_RPC_URL",
+    "from_currency": "ETH",
+    "to_currency": "XMR",
+    "to_address": "XMR_DST_ADDR",
+    "refund_address": "REFUND_ADRRESS",
+    "rate_mode": "dynamic",
+    "fee_option": "f"
+}
